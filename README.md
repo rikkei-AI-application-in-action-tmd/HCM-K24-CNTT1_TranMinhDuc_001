@@ -1,7 +1,7 @@
 HACKATHON AI APPLICATION IN ACTION - ĐỀ 001
 
 * Họ và tên: Trần Minh Đức
-* Mã học viên: PTIT-HCM-085
+* Mã sinh viên: PTIT-HCM-085
 * Lớp: HCM-K24-CNTT1
 * Mã đề: 001
 
